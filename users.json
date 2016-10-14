@@ -1,0 +1,36 @@
+{
+  "user1" : {
+    "name" : "Bill",
+       "password" : "123456",
+       "profession" : "Bass player",
+       "id" : 1
+  },
+
+  "user2" : {
+    "name" : "Charlie",
+       "password" : "213456",
+       "profession" : "Drummer",
+       "id" : 2
+  },
+
+  "user3" : {
+    "name" : "Brian",
+       "password" : "231456",
+       "profession" : "Guitar",
+       "id" : 3
+  },
+
+  "user4" : {
+    "name" : "Keith",
+       "password" : "234156",
+       "profession" : "Guitar",
+       "id" : 4
+  },
+
+  "user5" : {
+    "name" : "Mick",
+       "password" : "234516",
+       "profession" : "Voice",
+       "id" : 5
+  }
+}
